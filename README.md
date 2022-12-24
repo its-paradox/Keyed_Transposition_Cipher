@@ -5,10 +5,12 @@ example:
 
 1. Encryption
 2. Decryption
+
 Enter your choice: 1
 
 Enter plain text: what is the population of mars
- Enter keyword: code
+
+Enter keyword: code
 Enter key value: 10
 
 Cipher text: KJNF WU GTS RBBINNFWQA AT ONDG
