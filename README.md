@@ -14,7 +14,12 @@ Enter keyword: code
 
 Enter key value: 10
 
+
+
 Cipher text: KJNF WU GTS RBBINNFWQA AT ONDG
+
+
+
 
 
 
@@ -28,6 +33,8 @@ Enter cipher text: KJNF WU GTS RBBINNFWQA AT ONDG
 Enter keyword: code
 
 Enter key value: 10
+
+
 
 Plain text: WHAT IS THE POPULATION OF MARS
 
