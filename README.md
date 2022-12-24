@@ -14,15 +14,10 @@ Enter keyword: code
 
 Enter key value: 10
 
-
-.
 Cipher text: KJNF WU GTS RBBINNFWQA AT ONDG
 
 
 
-
-
-.
 1. Encryption
 2. Decryption
 
@@ -34,7 +29,5 @@ Enter keyword: code
 
 Enter key value: 10
 
-
-.
 Plain text: WHAT IS THE POPULATION OF MARS
 
