@@ -5,7 +5,6 @@ example:
 
 1. Encryption
 2. Decryption
-
 Enter your choice: 1
 
 Enter plain text: what is the population of mars
